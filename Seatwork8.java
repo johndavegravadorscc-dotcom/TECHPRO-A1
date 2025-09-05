@@ -37,4 +37,4 @@ public class Seatwork8 {
     System.out.println("Your grade is " + grade);
     }
     }
-}
+
